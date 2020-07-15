@@ -1,1 +1,1 @@
-this is our new file in text2 as changetxt2
+this is our new file in text2 as changetxt2 and we are after merge in change txt2
